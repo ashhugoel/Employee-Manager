@@ -1,7 +1,11 @@
 # Employee Mangager
 
 The Employee Manager project is a web application designed to manage employee information efficiently. It provides functionalities for adding, viewing, and deleting employee records. The application features a user-friendly interface built with React and Bootstrap, allowing for easy navigation and interaction. It includes forms for inputting employee details such as name, address, contact information, and more. The project is structured to support routing and component-based architecture, ensuring scalability and maintainability.
+
+Demo Video Link : https://drive.google.com/file/d/1fnb-Oc5a1SaVMtlqaQjWFU4mlGrtCoPf/view?usp=sharing
 ## Table of Contents
+
+
 
 - [Installation](#installation)
 - [Features](#features)
