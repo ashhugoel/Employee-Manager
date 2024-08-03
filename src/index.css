@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background: #eee;
+  
+}
+.background-white{
+  background-color: white;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+
+}
+
+.f-bold{
+  font-weight: 600;
+}
+
+.loading{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+};
+.noline{
+  text-decoration: none !important;
+}
+a {
+  text-decoration: none !important;
+}
+
+html, body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.custom-toast {
+  color:#f5ba13 !important; /* Optional: change text color for better readability */
+  font-weight: 600;
+}
