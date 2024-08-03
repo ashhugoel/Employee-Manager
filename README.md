@@ -6,6 +6,7 @@ The Employee Manager project is a web application designed to manage employee in
 - [Installation](#installation)
 - [Features](#features)
 - [Component](#component)
+- [Future Enhancements](#future-enhancements)
 
 ## Installation
 
@@ -13,7 +14,7 @@ Instructions on how to install and run this project.
 
 **Clone the repository**
 ```sh
- git clone https://github.com/ashhugoel/Employee-Manager.git
+git clone https://github.com/ashhugoel/Employee-Manager.git
   ```
 
 **Navigate into the project directory**
@@ -69,3 +70,11 @@ npm run dev
     - **`Form`**: The form component to update employee details.
 
 ![Component](./Component.png)
+
+## Future Enhancements
+
+- **Authentication**: Add user authentication and authorization to secure access and manage user permissions.
+- **Pagination**: Implement pagination for the employee list to improve performance and user experience with large datasets.
+- **Export Data**: Add functionality to export employee data as CSV or Excel files for easy sharing and reporting.
+- **Notifications**: Introduce notifications to inform users about important actions, such as adding or editing employees.
+- **Dashboard**: Create a comprehensive dashboard to display statistics and insights about employees, enhancing data visualization and decision-making.
